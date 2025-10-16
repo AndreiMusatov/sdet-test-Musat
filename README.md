@@ -10,7 +10,7 @@
 7.	В поле Message написать "5 Katalon Studio".
 8.	Нажать на кнопку Submit. Expected Result: Появляется алерт с текстом "Message received!".
 
-   ![ПОЗИТИВ](images/positive.png)
+   ![ПОЗИТИВ](sdet-test/images/positive.png)
    
 ## Негативный тест-кейс
 
@@ -23,9 +23,9 @@
 7.	В поле Message написать "5 Katalon Studio".
 8.	Нажать на кнопку Submit. Expected Result: Появляется алерт с текстом "The message was not received".
 
-![НЕГАТИВ](images/negative.png)
+![НЕГАТИВ](sdet-test/images/negative.png)
 
 ## P.S.
 Cформировать отчеты о пройденном тесте
 
-![ТЕСТ](images/allure-screenshot.jpg)
+![ТЕСТ](sdet-test/images/allure-screenshot.jpg)
